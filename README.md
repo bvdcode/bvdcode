@@ -59,6 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 <div>
+<img src="https://github-readme-stats-alirezanet.vercel.app/api?username=bigmakcode&show_icons=true&theme=tokyonight" title="stats" alt="stats" width="400px" height="300px" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=BigMakCode&theme=dark&background=000000" title="stats" alt="stats" width="400px" height="300px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nastiks&theme=dark&background=000000" title="stats" alt="stats" width="400px" height="300px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nastiks&theme=dark&background=000000" title="stats" alt="stats" width="800px" height="300px" />
 </div>
