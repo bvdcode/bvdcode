@@ -14,7 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I'm in commercial software development. The main programming language is C#.
 
-- :seedling: I study JavaScript / TypeScript and React / Redux.
+- :seedling: I also perform DevOps tasks and set up server infrastructure. I study JavaScript / TypeScript and React / Redux.
 
 - :zap: I adhere to generally accepted standards, OOP and SOLID, as well as Microsoft recommendations.
 
