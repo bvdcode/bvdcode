@@ -20,7 +20,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️: Languages and Tools :
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60" />
@@ -57,7 +57,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### 🔥: My Stats :
 <div>
 <img src="https://github-readme-stats-alirezanet.vercel.app/api?username=bigmakcode&show_icons=true&theme=tokyonight" title="stats" alt="stats" width="400px" height="300px" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=BigMakCode&theme=dark&background=000000" title="stats" alt="stats" width="400px" height="300px" />
