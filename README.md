@@ -10,11 +10,11 @@
 
 ### 👨‍💻: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ![Russian Federation](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png "Russian Federation") ![Kazakhstan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kz.png "kazakhstan") ![Mexico](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "Mexico") ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+I am a Senior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ![Russian Federation](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png "Russian Federation") ![Kazakhstan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kz.png "kazakhstan") ![Mexico](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "Mexico") ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 
 - :telescope: I'm in commercial software development. The main programming language is C#.
 
-- :seedling: I also perform DevOps tasks and set up server infrastructure. I study JavaScript / TypeScript and React / Redux.
+- :seedling: I also perform DevOps tasks and set up server infrastructure. I'm also using JavaScript / TypeScript and React / Redux.
 
 - :zap: I adhere to generally accepted standards, OOP and SOLID, as well as Microsoft recommendations.
 
