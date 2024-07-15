@@ -3,7 +3,7 @@
   <div id="badges">
   <a href="https://t.me/belovadik">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge" height=30px />
-    <img src="https://komarev.com/ghpvc/?username=BigMakCode&style=flat-square&color=green" alt="Counter" height=30px />
+    <img src="https://komarev.com/ghpvc/?username=bvdcode&style=flat-square&color=green" alt="Counter" height=30px />
   </a>
 </div>
 </div>
@@ -59,7 +59,7 @@ I am a Senior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 ### 🔥: My Stats :
 <div>
-<img src="https://github-readme-stats-alirezanet.vercel.app/api?username=bigmakcode&show_icons=true&theme=tokyonight" title="stats" alt="stats" width="400px" height="300px" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=BigMakCode&theme=dark&background=000000" title="stats" alt="stats" width="400px" height="300px" />
+<img src="https://github-readme-stats-alirezanet.vercel.app/api?username=bvdcode&show_icons=true&theme=tokyonight" title="stats" alt="stats" width="400px" height="300px" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=bvdcode&theme=dark&background=000000" title="stats" alt="stats" width="400px" height="300px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nastiks&theme=dark&background=000000" title="stats" alt="stats" width="800px" height="300px" />
 </div>
