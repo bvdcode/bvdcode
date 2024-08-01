@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=600px height=400px />
+  <img src="https://raw.githubusercontent.com/bvdcode/bvdcode/main/xWONWoL5H4jqRwdTt3cN8drmA472nQnM.webp" width=600px height=400px />
   <div id="badges">
   <a href="https://t.me/belovadik">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge" height=30px />
