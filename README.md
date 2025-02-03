@@ -5,6 +5,9 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge" height=30px />
     <img src="https://komarev.com/ghpvc/?username=bvdcode&style=flat-square&color=green" alt="Counter" height=30px />
   </a>
+  <a href="https://gitlab.com/bvd97">
+    <img src="https://img.shields.io/static/v1?label=GitLab&message=bvd97&color=blue&style=for-the-badge" alt="Counter" height=30px />
+  </a>
 </div>
 </div>
 
