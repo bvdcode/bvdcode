@@ -1,19 +1,22 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/bvdcode/bvdcode/main/xWONWoL5H4jqRwdTt3cN8drmA472nQnM.webp" width=480px height=360px />
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" />
   <div id="badges">
-  <a href="https://t.me/belovadik">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge" height=30px />
-    <img src="https://komarev.com/ghpvc/?username=bvdcode&style=flat-square&color=green" alt="Counter" height=30px />
+  <a href="https://t.me/bvdcode">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge" height=20px />
+  </a>
+  <a href="https://github.com/bvdcode">
+    <img src="https://komarev.com/ghpvc/?username=bvdcode&style=flat-square&color=green" alt="Counter" height=20px />
   </a>
   <a href="https://gitlab.com/bvdcode">
-    <img src="https://img.shields.io/static/v1?label=GitLab&message=bvdcode&color=orange&style=for-the-badge" alt="Counter" height=30px />
+    <img src="https://img.shields.io/static/v1?label=GitLab&message=bvdcode&color=orange&style=for-the-badge" alt="Counter" height=20px />
   </a>
 </div>
 </div>
 
-### 👨‍💻: About Me :
+### 👨‍💻: About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=I+am+a+Senior+Full+Stack+Engineer.)](https://github.com/sponsors/heyValdemar)
 
-I am a Senior Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ![Russian Federation](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png "Russian Federation") ![Kazakhstan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kz.png "kazakhstan") ![Mexico](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "Mexico") ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ![Russian Federation](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png "Russian Federation") ![Kazakhstan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kz.png "kazakhstan") ![Mexico](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "Mexico") ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 
 - :telescope: I'm in commercial software development. The primary programming language is C#.
 
