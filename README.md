@@ -18,7 +18,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ![Russian Federation](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png "Russian Federation") ![Kazakhstan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kz.png "kazakhstan") ![Mexico](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "Mexico") ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 
-- :telescope: I'm in commercial software development. The primary programming language is C#.
+- :telescope: I'm in commercial software development. The main programming language is C#.
 
 - :seedling: I also perform DevOps. I'm also using JavaScript / TypeScript and React / Redux.
 
