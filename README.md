@@ -20,7 +20,7 @@
 
 - :telescope: I'm in commercial software development. The main programming language is C#.
 
-- :seedling: I also perform DevOps. I'm also using JavaScript / TypeScript and React / Redux.
+- :seedling: I also perform DevOps and use TypeScript with React.
 
 - :zap: I adhere to generally accepted standards, OOP and SOLID, as well as Microsoft recommendations.
 
