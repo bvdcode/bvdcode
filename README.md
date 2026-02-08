@@ -14,7 +14,7 @@
 </div>
 
 ### 👨‍💻: About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=I+am+a+Senior+Full+Stack+Engineer.)](https://github.com/sponsors/heyValdemar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=I+am+a+Senior+Full+Stack+Engineer.)](https://github.com/sponsors/bvdcode)
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ![Russian Federation](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png "Russian Federation") ![Kazakhstan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kz.png "kazakhstan") ![Mexico](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png "Mexico") ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 
