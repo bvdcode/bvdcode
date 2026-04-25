@@ -19,8 +19,9 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5200&pause=1200&color=9046FF&width=1120&lines=Design+like+a+user.+Build+like+an+engineer.+Ship+like+the+window+will+not+open+twice.;Good+software+feels+simple%2C+even+when+the+system+behind+it+is+not.;The+complexity+can+live+inside+the+system%2C+but+the+user+should+never+receive+the+invoice.;The+frontend+should+feel+calm.+The+backend+should+survive+a+nuclear+explosion.)](https://belov.us)
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5200&pause=1200&color=9046FF&width=1120&lines=Design+like+a+user.+Build+like+an+engineer.+Ship+like+gravity+is+doing+the+delivery.;Good+software+feels+simple%2C+even+when+the+system+behind+it+is+not.;The+complexity+can+live+inside+the+system%2C+but+the+user+should+never+receive+the+invoice.;The+frontend+should+feel+calm.+The+backend+should+survive+a+nuclear+explosion." alt="Animated Text" />
+</p>
 
 
 ### 👨‍💻 About Me
@@ -34,24 +35,24 @@
 
 ### 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,postgres,docker,linux,nginx,git,github,gitlab,figma,vscode,visualstudio,python,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nextjs,html,css,tailwind,postgres,redis,docker,linux,git,github,gitlab,visualstudio,vscode,figma,python,bash,powershell)](https://skillicons.dev)
 
 ---
 
-### 📦 Public Work
+### 🧱 What I Usually Build
 
-- **[Mattermost.NET](https://github.com/bvdcode/Mattermost.NET)** — a .NET client library for Mattermost bots, integrations, REST API operations, and real-time WebSocket events.
-- **[Blink.NET](https://github.com/bvdcode/Blink.NET)** — a .NET library for working with Blink devices and APIs.
+| Area | Focus |
+| --- | --- |
+| **Product Engineering** | MVPs, internal platforms, dashboards, automation, product UX |
+| **Backend & APIs** | ASP.NET Core, EF Core, PostgreSQL, Redis, SignalR, versioned APIs |
+| **Frontend** | React, Next.js, TypeScript, Tailwind, MUI, data-heavy interfaces |
+| **Infrastructure** | Docker, Traefik, Linux, CI/CD, production deployments |
+| **Reliability** | observability, queues, retries, migrations, feature flags, operational tooling |
+| **Security** | access control, rate limits, audit trails, secrets handling, secure-by-default flows |
 
 ---
 
-### 🔥 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bvdcode&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=bvdcode&theme=tokyonight" alt="GitHub streak" height="180" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvdcode&layout=compact&theme=tokyonight" alt="Top languages" height="180" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bvdcode&theme=dark&hide_border=true" alt="GitHub streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvdcode&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="160" />
 </p>
