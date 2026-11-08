@@ -54,5 +54,5 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bvdcode&theme=dark&hide_border=true" alt="GitHub streak" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvdcode&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bvdcode&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="160" />
 </p>
